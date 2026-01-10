@@ -18,3 +18,8 @@
 
 }
 
+## Backbone selection
+You could select effective pre-trained backbone, e.g., download pre-trained PVT model from https://pan.baidu.com/share/init?surl=U6Bsyhu0ynXckU6EnJM35w(code:sxiq)
+or use pre-trained VGG16 or ResNet50 from Pytorch. 
+
+## 
