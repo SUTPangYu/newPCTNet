@@ -1,4 +1,4 @@
-
+This code is related to "Progressive Thermal-embedding: Enhancing RGB-T Salient Object Detection via A Novel Single-Stream Netowrk", which is submitted to The Visual Computer Journal. (We will update DOI if it can be accpeted).
 
 ## Requirement
 * Python 3.7
@@ -23,3 +23,4 @@ You could select effective pre-trained backbone, e.g., download pre-trained PVT 
 or use pre-trained VGG16 or ResNet50 from Pytorch. 
 
 ## 
+
